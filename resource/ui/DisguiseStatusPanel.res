@@ -31,7 +31,7 @@
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"fgcolor_override"	"255 255 255 255"
+		"fgcolor_override"	"MilkyFG"
 	}
 	
 	"WeaponNameLabel"
@@ -52,7 +52,7 @@
 		"textAlignment"		"south-west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"fgcolor_override"	"255 255 255 150"
+		"fgcolor_override"	"MilkyFG"
 	}
 	
 	"SpectatorGUIHealth"
@@ -73,7 +73,7 @@
 	}
 	"DisguiseBG"
 	{
-		"ControlName"			"CExImageButton"
+		"ControlName"			"EditablePanel"
 		"fieldName"			"DisguiseBG"
 		"xpos"				"c-155"
 		"ypos"				"c115"
@@ -82,7 +82,7 @@
 		"tall"				"20"
 		"visible"			"1"		
 		"enabled"			"1"
-		"defaultbgcolor_override"	"0 0 0 130"
+		"bgcolor_override"	"MilkyBG"
 		"PaintBackgroundType"		"0"
 		"TextInsetX"			"999999"
 	}	
