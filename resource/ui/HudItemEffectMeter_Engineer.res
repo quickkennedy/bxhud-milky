@@ -64,7 +64,7 @@
 		"tall"				"20"
 		"visible"			"1"		
 		"enabled"			"1"
-		"defaultbgcolor_override"	"0 0 0 130"
+		"defaultbgcolor_override"	"255 255 255 30"
 		"PaintBackgroundType"		"0"
 		"TextInsetX"			"999999"
 	}
