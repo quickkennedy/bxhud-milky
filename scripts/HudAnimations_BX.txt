@@ -98,8 +98,8 @@ event HudMedicCharged
 	Animate	MedicUberPercentBG				BgColor		"MilkyPositive"	Linear 0.0 0.075
 	Animate	MedicUberPercentBG				BgColor		"MilkyPositive"	Linear 0.125 0.075
 	
-	Animate	MedicUberBG						BgColor		"MilkyPositive"	Linear 0.0 0.075
-	Animate	MedicUberBG						BgColor		"MilkyPositive"	Linear 0.125 0.075
+	Animate	ChargeMeter						FgColor		"MilkyPositive"	Linear 0.0 0.075
+	Animate	ChargeMeter						FgColor		"MilkyPositive"	Linear 0.125 0.075
 
 	RunEvent HudMedicChargedLoop			0.6
 }
@@ -116,7 +116,7 @@ event HudMedicChargedStop
 	
 	Animate	ChargeLabel 					FgColor		"MilkyFG"	Linear 0.0 0.0001
 	
-	Animate	ChargeMeter 					FgColor		"MilkyFG"	Linear 0.0 0.0001
+	Animate	ChargeMeter 					FgColor		"255 255 255 255"	Linear 0.0 0.0001
 	
 	Animate	MedicUberPercentBG				BgColor		"MilkyBG"			Linear 0.0 0.0
 	

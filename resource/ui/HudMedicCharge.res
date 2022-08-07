@@ -30,7 +30,7 @@
 		"zpos"				"2"
 		"wide"				"140"
 		"tall"				"14"
-		"visible"			"1"		
+		"visible"			"0"		
 		"enabled"			"1"
 		"bgcolor_override"	"MilkyBG"
 		"PaintBackgroundType"		"0"

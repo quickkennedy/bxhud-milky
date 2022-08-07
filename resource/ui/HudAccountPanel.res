@@ -17,7 +17,7 @@
 	}
 	"ResBG"
 	{
-		"ControlName"			"CExImageButton"
+		"ControlName"			"EditablePanel"
 		"fieldName"			"ResBG"
 		"xpos"				"0"
 		"ypos"				"0"
@@ -26,7 +26,7 @@
 		"tall"				"20"
 		"visible"			"1"		
 		"enabled"			"1"
-		"defaultbgcolor_override"	"0 0 0 130"
+		"bgcolor_override"	"MilkyBG"
 		"PaintBackgroundType"		"0"
 		"TextInsetX"			"999999"
 	}
@@ -44,7 +44,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"ico_metal"
-		"iconColor"		"255 255 255 255"
+		"iconColor"		"MilkyFG"
 	}
 	
 	"AccountValue"
@@ -66,6 +66,6 @@
 		"dulltext"	"0"
 		"brighttext"	"0"
 		"font"		"roboto18"
-		"fgcolor"	"255 255 255 255"
+		"fgcolor"	"MilkyFG"
 	}
 }

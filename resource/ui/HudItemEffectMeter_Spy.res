@@ -72,12 +72,13 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"roboto18"
+		"fgcolor"				"MilkyFG"
 	}
 	
 		
 		"DiamondbackCritsBG"
 	{
-		"ControlName"				"CExImageButton"
+		"ControlName"				"EditablePanel"
 		"fieldName"					"PlayerAmmoBG"
 		"xpos"						"c30"
 		"ypos"						"c115"
@@ -86,7 +87,7 @@
 		"tall"						"20"
 		"visible"					"1"		
 		"enabled"					"1"
-		"defaultbgcolor_override"	"255 255 255 30"
+		"bgcolor_override"	"MilkyBG"
 		"PaintBackgroundType"		"0"
 		"TextInsetX"				"999999"
 	}

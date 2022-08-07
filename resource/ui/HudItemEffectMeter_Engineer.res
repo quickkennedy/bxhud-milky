@@ -55,7 +55,7 @@
 	}					
 	"ChargeBG"
 	{
-		"ControlName"			"CExImageButton"
+		"ControlName"			"EditablePanel"
 		"fieldName"			"ChargeBG"
 		"xpos"				"c75"
 		"ypos"				"c115"
@@ -64,7 +64,7 @@
 		"tall"				"20"
 		"visible"			"1"		
 		"enabled"			"1"
-		"defaultbgcolor_override"	"255 255 255 30"
+		"bgcolor_override"	"MilkyBG"
 		"PaintBackgroundType"		"0"
 		"TextInsetX"			"999999"
 	}
