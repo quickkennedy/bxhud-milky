@@ -55,11 +55,11 @@
 		"armedFgColor_override" 	"0 0 0 0"
 		"depressedFgColor_override" 	"0 0 0 0"
 		"selectedFgColor_override" 	"0 0 0 0"
-		"bgcolor"			"0 0 0 130"
-		"defaultBgColor_override" 	"0 0 0 130"
-		"armedBgColor_override" 	"0 0 0 130"
-		"depressedBgColor_override" 	"0 0 0 130"
-		"selectedBgColor_override" 	"0 0 0 130"
+		"bgcolor"			"MilkyBG"
+		"defaultBgColor_override" 	"MilkyBG"
+		"armedBgColor_override" 	"MilkyBG"
+		"depressedBgColor_override" 	"MilkyBG"
+		"selectedBgColor_override" 	"MilkyBG"
 	}
 	"teambutton0"
 	{
@@ -75,7 +75,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"3"
-		"labelText"		"&3   Join Blue"	[$WIN32]
+		"labelText"		"&1   Join Blue"	[$WIN32]
 		"labelText"		""		[$X360]
 		"textAlignment"		"west"
 		"textinsetx"		"-10"
@@ -87,16 +87,16 @@
 		"associated_model"	"bluedoor"
 		"hover"			"2.0"
 		"font"			"roboto11"
-		"fgcolor"			"255 255 255 255"
-		"defaultFgColor_override" 	"255 255 255 255"
-		"armedFgColor_override" 	"255 255 255 255"
-		"depressedFgColor_override" 	"255 255 255 255"
-		"selectedFgColor_override" 	"255 255 255 255"
-		"bgcolor"			"91 122 140 255"
-		"defaultBgColor_override" 	"91 122 140 255"
-		"armedBgColor_override" 	"71 102 120 255"
-		"depressedBgColor_override" 	"91 122 140 255"
-		"selectedBgColor_override" 	"91 122 140 255"
+		"fgcolor"			"MilkyFG"
+		"defaultFgColor_override" 	"MilkyFG"
+		"armedFgColor_override" 	"MilkyNegative"
+		"depressedFgColor_override" 	"MilkyFG"
+		"selectedFgColor_override" 	"MilkyNegative"
+		"bgcolor"			"MilkyBLU"
+		"defaultBgColor_override" 	"MilkyBLU"
+		"armedBgColor_override" 	"MilkyBLU"
+		"depressedBgColor_override" 	"MilkyBLU"
+		"selectedBgColor_override" 	"MilkyBLU"
 	}
 
 	"teambutton1"
@@ -113,7 +113,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"4"
-		"labelText"		"&4   Join Red"	[$WIN32]
+		"labelText"		"&2   Join Red"	[$WIN32]
 		"textAlignment"		"west"
 		"textinsetx"		"-10"
 		"dulltext"		"0"
@@ -124,16 +124,16 @@
 		"associated_model"	"reddoor"	
 		"hover"			"2.0"
 		"font"			"roboto11"
-		"fgcolor"			"255 255 255 255"
-		"defaultFgColor_override" 	"255 255 255 255"
-		"armedFgColor_override" 	"255 255 255 255"
-		"depressedFgColor_override" 	"255 255 255 255"
-		"selectedFgColor_override" 	"255 255 255 255"
-		"bgcolor"			"189 59 60 255"
-		"defaultBgColor_override" 	"189 59 60 255"
-		"armedBgColor_override" 	"169 59 60 255"
-		"depressedBgColor_override" 	"189 59 60 255"
-		"selectedBgColor_override" 	"189 59 60 255"
+		"fgcolor"			"MilkyFG"
+		"defaultFgColor_override" 	"MilkyFG"
+		"armedFgColor_override" 	"MilkyNegative"
+		"depressedFgColor_override" 	"MilkyFG"
+		"selectedFgColor_override" 	"MilkyNegative"
+		"bgcolor"			"MilkyRED"
+		"defaultBgColor_override" 	"MilkyRED"
+		"armedBgColor_override" 	"MilkyRED"
+		"depressedBgColor_override" 	"MilkyRED"
+		"selectedBgColor_override" 	"MilkyRED"
 	}
 	"teambutton2"
 	{
@@ -149,7 +149,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"1"
-		"labelText"		"&1   Auto assign"	[$WIN32]
+		"labelText"		"&3   Auto assign"	[$WIN32]
 		"textAlignment"		"west"
 		"textinsetx"		"-10"
 		"dulltext"		"0"
@@ -158,16 +158,16 @@
 		"command"		"jointeam auto"
 		"associated_model"	"autodoor"
 		"font"			"roboto11"
-		"fgcolor"			"255 255 255 255"
-		"defaultFgColor_override" 	"255 255 255 255"
-		"armedFgColor_override" 	"255 255 255 255"
-		"depressedFgColor_override" 	"255 255 255 255"
-		"selectedFgColor_override" 	"255 255 255 255"
-		"bgcolor"			"0 0 0 0"
-		"defaultBgColor_override" 	"0 0 0 0"
-		"armedBgColor_override" 	"0 0 0 255"
-		"depressedBgColor_override" 	"0 0 0 0"
-		"selectedBgColor_override" 	"0 0 0 0"
+		"fgcolor"			"MilkyFG"
+		"defaultFgColor_override" 	"MilkyFG"
+		"armedFgColor_override" 	"MilkyNegative"
+		"depressedFgColor_override" 	"MilkyFG"
+		"selectedFgColor_override" 	"MilkyNegative"
+		"bgcolor"			"MilkyBG"
+		"defaultBgColor_override" 	"MilkyBG"
+		"armedBgColor_override" 	"MilkyBG"
+		"depressedBgColor_override" 	"MilkyBG"
+		"selectedBgColor_override" 	"MilkyBG"
 	}
 	
 	"teambutton3"
@@ -184,7 +184,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"2"
-		"labelText"		"&2   Spectate"	[$WIN32]
+		"labelText"		"&4   Spectate"	[$WIN32]
 		"textAlignment"		"west"
 		"textinsetx"		"-10"
 		"dulltext"		"0"
@@ -193,16 +193,16 @@
 		"command"		"jointeam spectate"
 		"associated_model"	"spectate"
 		"font"			"roboto11"
-		"fgcolor"			"255 255 255 255"
-		"defaultFgColor_override" 	"255 255 255 255"
-		"armedFgColor_override" 	"255 255 255 255"
-		"depressedFgColor_override" 	"255 255 255 255"
-		"selectedFgColor_override" 	"255 255 255 255"
-		"bgcolor"			"0 0 0 0"
-		"defaultBgColor_override" 	"0 0 0 0"
-		"armedBgColor_override" 	"0 0 0 255"
-		"depressedBgColor_override" 	"0 0 0 0"
-		"selectedBgColor_override" 	"0 0 0 0"
+		"fgcolor"			"MilkyFG"
+		"defaultFgColor_override" 	"MilkyFG"
+		"armedFgColor_override" 	"MilkyNegative"
+		"depressedFgColor_override" 	"MilkyFG"
+		"selectedFgColor_override" 	"MilkyNegative"
+		"bgcolor"			"MilkyBG"
+		"defaultBgColor_override" 	"MilkyBG"
+		"armedBgColor_override" 	"MilkyBG"
+		"depressedBgColor_override" 	"MilkyBG"
+		"selectedBgColor_override" 	"MilkyBG"
 	}
 	"BlueCount"
 	{
@@ -222,8 +222,8 @@
 		"dulltext"	"0"
 		"brighttext"	"1"
 		"font"		"roboto11"
-		"fgcolor"	"255 255 255 255"
-	}		
+		"fgcolor"	"MilkyFG"
+	}
 	
 	"RedCount"
 	{
@@ -243,7 +243,7 @@
 		"dulltext"	"0"
 		"brighttext"	"1"
 		"font"		"roboto11"
-		"fgcolor"	"255 255 255 255"
+		"fgcolor"	"MilkyFG"
 	}
 	"CancelButton" [$WIN32] 
 	{

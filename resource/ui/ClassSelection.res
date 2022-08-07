@@ -40,8 +40,8 @@
 		"tall"				"130"
 		"visible"			"1"		
 		"enabled"			"1"
-		"defaultbgcolor_override"	"0 0 0 130"
-		"armedbgcolor_override"		"0 0 0 130"
+		"defaultbgcolor_override"	"MilkyBG"
+		"armedbgcolor_override"		"MilkyBG"
 		"PaintBackgroundType"		"0"
 		"TextInsetX"			"999999"
 	}
@@ -56,8 +56,8 @@
 		"tall"				"150"
 		"visible"			"1"		
 		"enabled"			"1"
-		"defaultbgcolor_override"	"0 0 0 130"
-		"armedbgcolor_override"		"0 0 0 130"
+		"defaultbgcolor_override"	"MilkyBG"
+		"armedbgcolor_override"		"MilkyBG"
 		"PaintBackgroundType"		"0"
 		"TextInsetX"			"999999"
 	}
@@ -72,8 +72,8 @@
 		"tall"				"15"
 		"visible"			"1"		
 		"enabled"			"1"
-		"defaultbgcolor_override"	"0 0 0 130"
-		"armedbgcolor_override"		"0 0 0 130"
+		"defaultbgcolor_override"	"MilkyBG"
+		"armedbgcolor_override"		"MilkyBG"
 		"PaintBackgroundType"		"0"
 		"TextInsetX"			"999999"
 	}
@@ -102,11 +102,11 @@
 		"image_default"		"class_sel_sm_random_inactive"
 		"image_armed"		"class_sel_sm_random_inactive"
 		
-		"fgcolor"			"255 255 255 255"
-		"defaultFgColor_override" 	"255 255 255 255"
-		"armedFgColor_override" 	"34 164 135 255"
-		"depressedFgColor_override" 	"255 255 255 255"
-		"selectedFgColor_override" 	"34 164 135 255"
+		"fgcolor"			"MilkyFG"
+		"defaultFgColor_override" 	"MilkyFG"
+		"armedFgColor_override" 	"MilkyNegative"
+		"depressedFgColor_override" 	"MilkyFG"
+		"selectedFgColor_override" 	"MilkyNegative"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -115,8 +115,8 @@
 		"paintbackground"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"255 255 255 255"
-		"image_selectedcolor"		"255 255 255 255"
+		"image_armedcolor"		"MilkyFG"
+		"image_selectedcolor"		"MilkyFG"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -169,11 +169,11 @@
 		"image_default"		"class_sel_sm_scout_inactive"
 		"image_armed"		"class_sel_sm_scout_inactive"
 		
-		"fgcolor"			"255 255 255 255"
-		"defaultFgColor_override" 	"255 255 255 255"
-		"armedFgColor_override" 	"34 164 135 255"
-		"depressedFgColor_override" 	"255 255 255 255"
-		"selectedFgColor_override" 	"34 164 135 255"
+		"fgcolor"			"MilkyFG"
+		"defaultFgColor_override" 	"MilkyFG"
+		"armedFgColor_override" 	"MilkyNegative"
+		"depressedFgColor_override" 	"MilkyFG"
+		"selectedFgColor_override" 	"MilkyNegative"
 			
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -183,8 +183,8 @@
 		"paintbackgroundtype"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"255 255 255 255"
-		"image_selectedcolor"		"255 255 255 255"
+		"image_armedcolor"		"MilkyFG"
+		"image_selectedcolor"		"MilkyFG"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -230,11 +230,11 @@
 		"image_default"		"class_sel_sm_soldier_inactive"
 		"image_armed"		"class_sel_sm_soldier_inactive"
 		
-		"fgcolor"			"255 255 255 255"
-		"defaultFgColor_override" 	"255 255 255 255"
-		"armedFgColor_override" 	"34 164 135 255"
-		"depressedFgColor_override" 	"255 255 255 255"
-		"selectedFgColor_override" 	"34 164 135 255"
+		"fgcolor"			"MilkyFG"
+		"defaultFgColor_override" 	"MilkyFG"
+		"armedFgColor_override" 	"MilkyNegative"
+		"depressedFgColor_override" 	"MilkyFG"
+		"selectedFgColor_override" 	"MilkyNegative"
 			
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -244,8 +244,8 @@
 		"paintbackgroundtype"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"255 255 255 255"
-		"image_selectedcolor"		"255 255 255 255"
+		"image_armedcolor"		"MilkyFG"
+		"image_selectedcolor"		"MilkyFG"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -291,11 +291,11 @@
 		"image_default"		"class_sel_sm_pyro_inactive"
 		"image_armed"		"class_sel_sm_pyro_inactive"
 		
-		"fgcolor"			"255 255 255 255"
-		"defaultFgColor_override" 	"255 255 255 255"
-		"armedFgColor_override" 	"34 164 135 255"
-		"depressedFgColor_override" 	"255 255 255 255"
-		"selectedFgColor_override" 	"34 164 135 255"
+		"fgcolor"			"MilkyFG"
+		"defaultFgColor_override" 	"MilkyFG"
+		"armedFgColor_override" 	"MilkyNegative"
+		"depressedFgColor_override" 	"MilkyFG"
+		"selectedFgColor_override" 	"MilkyNegative"
 			
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -305,8 +305,8 @@
 		"paintbackgroundtype"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"255 255 255 255"
-		"image_selectedcolor"		"255 255 255 255"
+		"image_armedcolor"		"MilkyFG"
+		"image_selectedcolor"		"MilkyFG"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -359,11 +359,11 @@
 		"image_default"		"class_sel_sm_demo_inactive"
 		"image_armed"		"class_sel_sm_demo_inactive"
 		
-		"fgcolor"			"255 255 255 255"
-		"defaultFgColor_override" 	"255 255 255 255"
-		"armedFgColor_override" 	"34 164 135 255"
-		"depressedFgColor_override" 	"255 255 255 255"
-		"selectedFgColor_override" 	"34 164 135 255"
+		"fgcolor"			"MilkyFG"
+		"defaultFgColor_override" 	"MilkyFG"
+		"armedFgColor_override" 	"MilkyNegative"
+		"depressedFgColor_override" 	"MilkyFG"
+		"selectedFgColor_override" 	"MilkyNegative"
 			
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -373,8 +373,8 @@
 		"paintbackgroundtype"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"255 255 255 255"
-		"image_selectedcolor"		"255 255 255 255"
+		"image_armedcolor"		"MilkyFG"
+		"image_selectedcolor"		"MilkyFG"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -420,11 +420,11 @@
 		"image_default"		"class_sel_sm_heavy_inactive"
 		"image_armed"		"class_sel_sm_heavy_inactive"
 		
-		"fgcolor"			"255 255 255 255"
-		"defaultFgColor_override" 	"255 255 255 255"
-		"armedFgColor_override" 	"34 164 135 255"
-		"depressedFgColor_override" 	"255 255 255 255"
-		"selectedFgColor_override" 	"34 164 135 255"
+		"fgcolor"			"MilkyFG"
+		"defaultFgColor_override" 	"MilkyFG"
+		"armedFgColor_override" 	"MilkyNegative"
+		"depressedFgColor_override" 	"MilkyFG"
+		"selectedFgColor_override" 	"MilkyNegative"
 			
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -434,8 +434,8 @@
 		"paintbackgroundtype"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"255 255 255 255"
-		"image_selectedcolor"		"255 255 255 255"
+		"image_armedcolor"		"MilkyFG"
+		"image_selectedcolor"		"MilkyFG"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -481,11 +481,11 @@
 		"image_default"		"class_sel_sm_engineer_inactive"
 		"image_armed"		"class_sel_sm_engineer_inactive"
 		
-		"fgcolor"			"255 255 255 255"
-		"defaultFgColor_override" 	"255 255 255 255"
-		"armedFgColor_override" 	"34 164 135 255"
-		"depressedFgColor_override" 	"255 255 255 255"
-		"selectedFgColor_override" 	"34 164 135 255"
+		"fgcolor"			"MilkyFG"
+		"defaultFgColor_override" 	"MilkyFG"
+		"armedFgColor_override" 	"MilkyNegative"
+		"depressedFgColor_override" 	"MilkyFG"
+		"selectedFgColor_override" 	"MilkyNegative"
 			
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -495,8 +495,8 @@
 		"paintbackgroundtype"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"255 255 255 255"
-		"image_selectedcolor"		"255 255 255 255"
+		"image_armedcolor"		"MilkyFG"
+		"image_selectedcolor"		"MilkyFG"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -549,11 +549,11 @@
 		"image_default"		"class_sel_sm_medic_inactive"
 		"image_armed"		"class_sel_sm_medic_inactive"
 		
-		"fgcolor"			"255 255 255 255"
-		"defaultFgColor_override" 	"255 255 255 255"
-		"armedFgColor_override" 	"34 164 135 255"
-		"depressedFgColor_override" 	"255 255 255 255"
-		"selectedFgColor_override" 	"34 164 135 255"
+		"fgcolor"			"MilkyFG"
+		"defaultFgColor_override" 	"MilkyFG"
+		"armedFgColor_override" 	"MilkyNegative"
+		"depressedFgColor_override" 	"MilkyFG"
+		"selectedFgColor_override" 	"MilkyNegative"
 			
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -563,8 +563,8 @@
 		"paintbackgroundtype"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"255 255 255 255"
-		"image_selectedcolor"		"255 255 255 255"
+		"image_armedcolor"		"MilkyFG"
+		"image_selectedcolor"		"MilkyFG"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -610,11 +610,11 @@
 		"image_default"		"class_sel_sm_sniper_inactive"
 		"image_armed"		"class_sel_sm_sniper_inactive"
 		
-		"fgcolor"			"255 255 255 255"
-		"defaultFgColor_override" 	"255 255 255 255"
-		"armedFgColor_override" 	"34 164 135 255"
-		"depressedFgColor_override" 	"255 255 255 255"
-		"selectedFgColor_override" 	"34 164 135 255"
+		"fgcolor"			"MilkyFG"
+		"defaultFgColor_override" 	"MilkyFG"
+		"armedFgColor_override" 	"MilkyNegative"
+		"depressedFgColor_override" 	"MilkyFG"
+		"selectedFgColor_override" 	"MilkyNegative"
 			
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -624,8 +624,8 @@
 		"paintbackgroundtype"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"255 255 255 255"
-		"image_selectedcolor"		"255 255 255 255"
+		"image_armedcolor"		"MilkyFG"
+		"image_selectedcolor"		"MilkyFG"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -671,11 +671,11 @@
 		"image_default"		"class_sel_sm_spy_inactive"
 		"image_armed"		"class_sel_sm_spy_inactive"
 		
-		"fgcolor"			"255 255 255 255"
-		"defaultFgColor_override" 	"255 255 255 255"
-		"armedFgColor_override" 	"34 164 135 255"
-		"depressedFgColor_override" 	"255 255 255 255"
-		"selectedFgColor_override" 	"34 164 135 255"
+		"fgcolor"			"MilkyFG"
+		"defaultFgColor_override" 	"MilkyFG"
+		"armedFgColor_override" 	"MilkyNegative"
+		"depressedFgColor_override" 	"MilkyFG"
+		"selectedFgColor_override" 	"MilkyNegative"
 			
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -685,8 +685,8 @@
 		"paintbackgroundtype"	"0"
 		
 		"image_drawcolor"		"255 255 255 180"
-		"image_armedcolor"		"255 255 255 255"
-		"image_selectedcolor"		"255 255 255 255"
+		"image_armedcolor"		"MilkyFG"
+		"image_selectedcolor"		"MilkyFG"
 		
 		"stayselectedonclick"	"1"
 		"selectonhover"			"1"
@@ -735,11 +735,11 @@
 		"Command"		"openloadout"
 		"font"			"roboto11"
 		"paintbackground"	"0"
-		"fgcolor"			"255 255 255 255"
-		"defaultFgColor_override" 	"255 255 255 255"
-		"armedFgColor_override" 	"34 164 135 255"
-		"depressedFgColor_override" 	"255 255 255 255"
-		"selectedFgColor_override" 	"34 164 135 255"
+		"fgcolor"			"MilkyFG"
+		"defaultFgColor_override" 	"MilkyFG"
+		"armedFgColor_override" 	"MilkyNegative"
+		"depressedFgColor_override" 	"MilkyFG"
+		"selectedFgColor_override" 	"MilkyNegative"
 	}
 
 	"ResetButton" [$WIN32] 
@@ -778,7 +778,7 @@
 		"labelText"	"#TF_SelectAClass"
 		"textAlignment"	"center"
 		"font"		"roboto18"
-		"fgcolor"	"255 255 255 255"
+		"fgcolor"	"MilkyFG"
 	}
 	
 	"MenuBG"
@@ -918,7 +918,7 @@
 		"textAlignment"	"east"
 		"textinsetx"	"10"
 		"font"		"roboto11"
-		"fgcolor"	"255 255 255 255"
+		"fgcolor"	"MilkyFG"
 	}	
 	
 	"numSoldier" [$WIN32]
@@ -939,7 +939,7 @@
 		"textAlignment"	"east"
 		"textinsetx"	"10"
 		"font"		"roboto11"
-		"fgcolor"	"255 255 255 255"
+		"fgcolor"	"MilkyFG"
 	}		
 	
 	"numPyro" [$WIN32]
@@ -960,7 +960,7 @@
 		"textAlignment"	"east"
 		"textinsetx"	"10"
 		"font"		"roboto11"
-		"fgcolor"	"255 255 255 255"
+		"fgcolor"	"MilkyFG"
 	}			
 	
 	"numDemoman" [$WIN32]
@@ -981,7 +981,7 @@
 		"textAlignment"	"east"
 		"textinsetx"	"10"
 		"font"		"roboto11"
-		"fgcolor"	"255 255 255 255"
+		"fgcolor"	"MilkyFG"
 	}				
 	
 	"numHeavy" [$WIN32]
@@ -1002,7 +1002,7 @@
 		"textAlignment"	"east"
 		"textinsetx"	"10"
 		"font"		"roboto11"
-		"fgcolor"	"255 255 255 255"
+		"fgcolor"	"MilkyFG"
 	}					
 	
 	"numEngineer" [$WIN32]
@@ -1023,7 +1023,7 @@
 		"textAlignment"	"east"
 		"textinsetx"	"10"
 		"font"		"roboto11"
-		"fgcolor"	"255 255 255 255"
+		"fgcolor"	"MilkyFG"
 	}						
 	
 	"numMedic" [$WIN32]
@@ -1044,7 +1044,7 @@
 		"textAlignment"	"east"
 		"textinsetx"	"10"
 		"font"		"roboto11"
-		"fgcolor"	"255 255 255 255"
+		"fgcolor"	"MilkyFG"
 	}							
 	
 	"numSniper" [$WIN32]
@@ -1065,7 +1065,7 @@
 		"textAlignment"	"east"
 		"textinsetx"	"10"
 		"font"		"roboto11"
-		"fgcolor"	"255 255 255 255"
+		"fgcolor"	"MilkyFG"
 	}						
 	
 	"numSpy" [$WIN32]
@@ -1086,7 +1086,7 @@
 		"textAlignment"	"east"
 		"textinsetx"	"10"
 		"font"		"roboto11"
-		"fgcolor"	"255 255 255 255"
+		"fgcolor"	"MilkyFG"
 	}								
 	
 	"MvMUpgradeImageScout"

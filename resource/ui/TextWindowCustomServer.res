@@ -103,6 +103,16 @@
 		"command"	"okay"
 		"default"	"1"
 		"font"		"MenuSmallFont"
+		"fgcolor"			"MilkyFG"
+		"defaultFgColor_override" 	"MilkyFG"
+		"armedFgColor_override" 	"MilkyNegative"
+		"depressedFgColor_override" 	"MilkyFG"
+		"selectedFgColor_override" 	"MilkyNegative"
+		"bgcolor"			"MilkyBG"
+		"defaultBgColor_override" 	"MilkyBG"
+		"armedBgColor_override" 	"MilkyBG"
+		"depressedBgColor_override" 	"MilkyBG"
+		"selectedBgColor_override" 	"MilkyBG"
 	}
 	
 	"MenuBG"

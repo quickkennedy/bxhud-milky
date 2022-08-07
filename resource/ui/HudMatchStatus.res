@@ -212,14 +212,14 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"			"BGFrame"
-		"xpos"				"cs-0.5"
+		"xpos"				"99999"
 		"ypos"				"-5"
 		"zpos"				"0"
 		"wide"				"0"
 		"tall"				"0"
 
 		"proportionaltoaparent"	"1"
-		"border"			"TFFatLineBorder"
+		//"border"			"TFFatLineBorder"
 	}
 	
 	"RankUpLabel"
@@ -297,7 +297,7 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"TimePanelValue"
 			"font"			"roboto16"
-			"fgcolor"		"255 255 255 255"
+			"fgcolor"		"MilkyFG"
 			"xpos"			"10"
 			"ypos"			"20"
 			"zpos"			"3"
