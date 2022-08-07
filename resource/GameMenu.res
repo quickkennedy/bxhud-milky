@@ -1,114 +1,58 @@
-"GameMenu" [$WIN32]
+"GameMenu"
 {
 	"ServerBrowserButton"
 	{
-		"label"			"Servers"
-		"command"		"OpenServerBrowser"
-		"subimage" 		""
+		"label" "FIND SERVERS" 
+		"command" "OpenServerBrowser"
+		"subimage" "glyph_server_browser"
 	}
 	"CreateServerButton"
 	{
-		"label" 		"Create"
-		"command" 		"OpenCreateMultiplayerGameDialog"
-		"subimage" 		""
+		"label" "#GameUI_GameMenu_CreateServer"
+		"command" "OpenCreateMultiplayerGameDialog"
+		"tooltip" "#GameUI_GameMenu_CreateServer"
 	}
 	"CharacterSetupButton"
 	{
-		"label" 		"Loadout"
-		"command" 		"engine open_charinfo"
-		"subimage" 		""
+		"label" "#MMenu_CharacterSetup"
+		"command" "engine open_charinfo"
+		"subimage" "glyph_items"
 	}
 	"GeneralStoreButton"
 	{
-		"label" 		"Store"
-		"command" 		"engine open_store"
-		"subimage" 		""
+		"label" "#MMenu_Shop"
+		"command" "engine open_store"
+		"subimage" "glyph_store"
 	}
-
-	"SettingsButton"
+	"ReplayBrowserButton"
 	{
-		"label" 		"Options"
-		"command" 		"OpenOptionsDialog"
-		"subimage" 		""
+		"label" "REPLAYS"
+		"command" "engine replay_reloadbrowser"
+		"subimage" "glyph_tv"
 	}
-	"TF2SettingsButton"
-	{
-		"label" 		"Advanced"
-		"command" 		"opentf2options"
-		"subimage" 		""
-	}
-	
 	"ConsoleButton"
 	{
-		"label" 		"Console"
-		"command" 		"engine showconsole"
-		"subimage" 		""
-	}
-	"AchievementsButton"
-	{
-		"label"			""
-		"command"		"OpenAchievementsDialog"
-		"OnlyInGame"	"0"
-		"subimage" 		"glyph_achievements"
-	}
-	"NewUserForumsButton"
-	{
-		"label" 		""
-		"Command"		"view_newuser_forums"
-		"subimage" 		"glyph_tutorial"
-		"OnlyAtMenu"	"1"
-	}
-	"ReportBugButton"
-	{
-		"label" 		""
-		"command" 		"engine bug"
-		"subimage" 		"glyph_bug"
-		"OnlyAtMenu"	"1"
-	}
-	"CoachPlayersButton"
-	{
-		"label" 		""
-		"command" 		"engine cl_coach_toggle"
-		"subimage" 		"glyph_commentary"
-		"OnlyAtMenu"	"1"
+		"label" "CONSOLE"
+		"command" "engine showconsole"
+		"subimage" ""
 	}
 	
-	"QuitButton"
-	{
-		"label" 		"Quit"
-		"command" 		"engine replay_confirmquit"
-		"OnlyAtMenu"	"1"
-		"subimage" 		""
-	}
-
-	// ONLY IN-GAME BUTTONS
+	// These buttons are only shown while in-game
+	// and also are positioned by the .res file
 	"CallVoteButton"
 	{
-		"label"			""
+		"label"			"CALL VOTE"
 		"command"		"callvote"
 		"OnlyInGame"	"1"
-		"subimage" 		"icon_checkbox"
+		"subimage" "icon_checkbox"
+		"tooltip" "#MMenu_CallVote"
 	}
 	"MutePlayersButton"
 	{
-		"label"			""
+		"label"			"MUTE PLAYERS"
 		"command"		"OpenPlayerListDialog"
 		"OnlyInGame"	"1"
-		"subimage" 		"glyph_muted"
-	}
-	"ReportPlayerButton"
-	{
-		"label"			""
-		"command"		"OpenReportPlayerDialog"
-		"OnlyInGame"	"1"
-		"subimage"		"glyph_alert"
-	}
-	
-	"DisconnectButton"
-	{
-		"label" 		"Disconnect"
-		"command" 		"engine disconnect"
-		"OnlyInGame"	"1"
-		"subimage" 		""
+		"subimage" "glyph_muted"
+		"tooltip" "#MMenu_MutePlayers"
 	}
 }

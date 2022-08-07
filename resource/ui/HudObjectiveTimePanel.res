@@ -8,7 +8,7 @@
 	}
 	"TimeBG"
 	{
-		"ControlName"	"CTFImagePanel"
+		"ControlName"	"ImagePanel"
 		"fieldName"		"TimeBG"
 		"xpos"			"10"
 		"ypos"			"20"
@@ -19,11 +19,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../hud/tournament_panel_brown"
-		"scaleImage"	"1"
-		"teambg_1"		"../hud/tournament_panel_brown"
-		"teambg_2"		"../hud/tournament_panel_red"
-		"teambg_3"		"../hud/tournament_panel_blu"
+		"fillcolor"		"MilkyBG"
 		
 		"src_corner_height"	"23"
 		"src_corner_width"	"23"
