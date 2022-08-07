@@ -50,11 +50,11 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
 		"font"			"roboto34"
-		"fgcolor"		"255 255 255 255"
+		"fgcolor"		"MilkyFG"
 	}
 	"PlayerHealthBG"
 	{
-		"ControlName"				"CExImageButton"
+		"ControlName"				"EditablePanel"
 		"fieldName"					"PlayerHealthBG"
 		"xpos"						"c-25"
 		"ypos"						"c80"
@@ -63,7 +63,7 @@
 		"tall"						"30"
 		"visible"					"1"		
 		"enabled"					"1"
-		"defaultbgcolor_override"	"0 0 0 130"
+		"bgcolor_override"					"MilkyBG"
 		"PaintBackgroundType"		"0"
 		"TextInsetX"				"999999"
 	}

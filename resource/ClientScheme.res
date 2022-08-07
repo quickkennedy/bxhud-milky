@@ -1,24 +1,78 @@
 #base "../scripts/crosshairs/font/Crosshairs.res"
-//
-// TRACKER SCHEME RESOURCE FILE
-//
-// sections:
-//		colors			- all the colors used by the scheme
-//		basesettings	- contains settings for app to use to draw controls
-//		fonts			- list of all the fonts used by app
-//		borders			- description of all the borders
-//
-//
-Scheme
-{
-	//Name - currently overriden in code
-	//{
-	//	"Name"	"ClientScheme"
-	//}
+Scheme{Colors{
 
-	//////////////////////// COLORS ///////////////////////////
-	Colors
-	{
+///////////////// milkyHUD colors /////////////////
+
+
+		"MilkyBG"			"255 255 255 178"
+		"MilkyFG"			"51 51 51 255"
+		
+		"MilkyPositive"		"43 255 128 178"
+		"MilkyNegative"		"255 255 102 178"
+
+		"MilkyBLU"			"0 153 255 255"
+		"MilkyRED"			"245 29 29 255"
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	//	Health Colors for bxhud
 		"BuffedColor1"	"34 164 135 255" //default overheal colors
@@ -509,6 +563,16 @@ Scheme
 				"name"		"Roboto Condensed Bold"
 				"tall"		"10"
 				"antialias"	"1"
+			}
+		}
+		"roboto10outline"
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed Bold"
+				"tall"		"10"
+				"antialias"	"1"
+				"outline"	"1"
 			}
 		}
 		"robotoreg10"

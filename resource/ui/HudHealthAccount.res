@@ -6,8 +6,8 @@
 		"delta_item_x"		"0"
 		"delta_item_start_y"	"0"
 		"delta_item_end_y"	"0"
-		"PositiveColor"		"HealthPickupColor"
-		"NegativeColor"		"255 0 0 255"
+		"PositiveColor"		"MilkyPositive"
+		"NegativeColor"		"MilkyNegative"
 		"delta_lifetime"	"1.5"
 		"delta_item_font"	"roboto30"
 	}

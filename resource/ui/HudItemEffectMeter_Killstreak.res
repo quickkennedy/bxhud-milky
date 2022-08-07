@@ -15,7 +15,7 @@
 	
 	"ItemEffectMeterBG"
 	{
-		"ControlName"				"CExImageButton"
+		"ControlName"				"EditablePanel"
 		"fieldName"					"itemEffectMeterBG"
 		"xpos"						"0"
 		"ypos"						"0"
@@ -24,7 +24,7 @@
 		"tall"						"20"
 		"visible"					"1"		
 		"enabled"					"1"
-		"defaultbgcolor_override"	"0 0 0 130"
+		"bgcolor_override"	"MilkyBG"
 		"PaintBackgroundType"		"0"
 		"TextInsetX"				"999999"
 	}
@@ -86,5 +86,6 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"roboto18"
+		"fgcolor"				"MilkyFG"
 	}
 }

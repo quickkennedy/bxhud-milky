@@ -15,7 +15,7 @@
 	}
 	"PlayerStickyBG"
 	{
-		"ControlName"			"CExImageButton"
+		"ControlName"			"EditablePanel"
 		"fieldName"			"PlayerStickyBG"
 		"xpos"				"c30"
 		"ypos"				"c115"
@@ -24,7 +24,7 @@
 		"tall"				"20"
 		"visible"			"0"		
 		"enabled"			"1"
-		"defaultbgcolor_override"	"0 0 0 130"
+		"bgcolor_override"	"MilkyBG"
 		"PaintBackgroundType"		"0"
 		"TextInsetX"			"999999"
 	}
@@ -90,7 +90,7 @@
 			"labelText"		"%activepipes%"
 			"textAlignment"	"center"
 			"font"			"roboto18"
-			"fgcolor"		"255 255 255 255"
+			"fgcolor"		"MilkyFG"
 		}
 		"NumPipesLabelDropshadow"
 		{
@@ -100,7 +100,7 @@
 		}
 		"PlayerStickyBG"
 		{
-		"ControlName"			"CExImageButton"
+		"ControlName"			"EditablePanel"
 		"fieldName"			"PlayerStickyBG"
 		"xpos"				"0"
 		"ypos"				"0"
@@ -109,7 +109,7 @@
 		"tall"				"20"
 		"visible"			"1"		
 		"enabled"			"1"
-		"defaultbgcolor_override"	"0 0 0 130"
+		"bgcolor_override"	"MilkyBG"
 		"PaintBackgroundType"		"0"
 		"TextInsetX"			"999999"
 		}
@@ -150,7 +150,7 @@
 			"labelText"		"%activepipes%"
 			"textAlignment"	"center"
 			"font"			"roboto18"
-			"fgcolor"		"255 255 255 255"
+			"fgcolor"		"MilkyFG"
 		}
 		"NumPipesLabelDropshadow"
 		{
@@ -160,7 +160,7 @@
 		}
 		"PlayerStickyBG"
 		{
-		"ControlName"			"CExImageButton"
+		"ControlName"			"EditablePanel"
 		"fieldName"			"PlayerStickyBG"
 		"xpos"				"0"
 		"ypos"				"0"
@@ -169,7 +169,7 @@
 		"tall"				"20"
 		"visible"			"0"		
 		"enabled"			"1"
-		"defaultbgcolor_override"	"0 0 0 130"
+		"bgcolor_override"	"MilkyBG"
 		"PaintBackgroundType"		"0"
 		"TextInsetX"			"999999"
 		}

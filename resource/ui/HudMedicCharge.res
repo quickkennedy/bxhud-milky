@@ -8,7 +8,7 @@
 	}
 	"MedicUberPercentBG"
 	{
-		"ControlName"			"CExImageButton"
+		"ControlName"			"EditablePanel"
 		"fieldName"			"MedicUberPercentBG"
 		"xpos"				"45"
 		"ypos"				"0"
@@ -17,13 +17,13 @@
 		"tall"				"20"
 		"visible"			"1"		
 		"enabled"			"1"
-		"defaultbgcolor_override"	"0 0 0 130"
+		"bgcolor_override"	"MilkyBG"
 		"PaintBackgroundType"		"0"
 		"TextInsetX"			"999999"
 	}
 	"MedicUberBG"
 	{
-		"ControlName"			"CExImageButton"
+		"ControlName"			"EditablePanel"
 		"fieldName"			"MedicUberBG"
 		"xpos"				"0"
 		"ypos"				"25"
@@ -32,7 +32,7 @@
 		"tall"				"14"
 		"visible"			"1"		
 		"enabled"			"1"
-		"defaultbgcolor_override"	"0 0 0 130"
+		"bgcolor_override"	"MilkyBG"
 		"PaintBackgroundType"		"0"
 		"TextInsetX"			"999999"
 	}
@@ -55,7 +55,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"font"			"roboto20"
-		"fgcolor_override"	"255 255 255 255"
+		"fgcolor_override"	"MilkyFG"
 	}
 
 	"IndividualChargesLabel"
@@ -77,7 +77,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"font"			"Roboto20"
-		"fgcolor_override"	"255 255 255 255"
+		"fgcolor_override"	"MilkyFG"
 	}
 	
 	"ChargeMeter"
