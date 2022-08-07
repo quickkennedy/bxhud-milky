@@ -39,6 +39,24 @@
 		"brighttext"		"0"
 		"fgcolor_override"	"MilkyFG"
 	}
+	"TargetNameBG"
+	{	
+		"ControlName"		"EditablePanel"
+		"fieldName"			"TargetNameBG"
+		"font"				"roboto12"
+		"xpos"				"30"
+		"ypos"				"0"
+		"zpos"				"0"
+		"wide"				"640"
+		"tall"				"20"
+		"autoResize"		"0"
+		"pinCorner"			"0"
+		"visible"			"1"
+		"enabled"			"1"
+		"dulltext"			"0"
+		"brighttext"		"0"
+		"bgcolor_override"	"MilkyBG"
+	}
 	"TargetNameLabelFix"
 	{	
 		"ControlName"		"Label"
@@ -59,7 +77,7 @@
 		"dulltext"			"0"
 		"brighttext"		"0"
 		"fgcolor_override"	"MilkyFG"
-		"bgcolor_override"	"MilkyBG"
+		//"bgcolor_override"	"MilkyBG"
 		"textInsetX"		"20"
 	}
 	"TargetDataLabel"
@@ -69,7 +87,7 @@
 		"font"				"roboto10outline"
 		"xpos"				"30"
 		"ypos"				"15"
-		"zpos"				"1"
+		"zpos"				"2"
 		"wide"				"280"
 		"tall"				"10"
 		"autoResize"		"0"
