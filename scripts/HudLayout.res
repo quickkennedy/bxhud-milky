@@ -441,18 +441,18 @@
 		"IconScale"	  "0.35"
 		"LineHeight"	  "12"
 		"LineSpacing"	  "1"
-		"CornerRadius"	  "2"
+		"CornerRadius"	  "0"
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 		
 		"TextFont"		"roboto11"
 		
-		"TeamBlue"		"80 120 180 255"
-		"TeamRed"		"210 70 50 255"
-		"IconColor"		"HudWhite"
-		"LocalPlayerColor"	"HUDBlack"
+		"TeamBlue"		"MilkyBLU"
+		"TeamRed"		"MilkyRED"
+		"IconColor"		"255 255 255 255"
+		"LocalPlayerColor"	"MilkyFG"
 
-		"BaseBackgroundColor"	"0 0 0 130"		[$WIN32]
-		"LocalBackgroundColor"	"255 255 255 255"	[$WIN32]
+		"BaseBackgroundColor"		"MilkyFG"
+		"LocalBackgroundColor"	"MilkyBG"
 	}
 
 	HudVehicle
