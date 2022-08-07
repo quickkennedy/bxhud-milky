@@ -62,7 +62,7 @@
 		"ControlName"		"Label"
 		"fieldName"			"TargetNameLabelFix"
 		"font"				"roboto12"
-		"xpos"				"30"
+		"xpos"				"35"
 		"ypos"				"0"
 		"zpos"				"1"
 		"wide"				"640"
