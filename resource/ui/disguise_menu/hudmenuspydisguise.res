@@ -39,7 +39,7 @@
 		"textAlignment"	"center"
 		"dulltext"	"0"
 		"brighttext"	"0"
-		"fgcolor"	"255 255 255 255"
+		"fgcolor"	"MilkyBG"
 	}
 	
 	"CancelLabel"
@@ -79,7 +79,7 @@
 		"tall"				"50"
 		"visible"			"1"		
 		"enabled"			"1"
-		"defaultbgcolor_override"	"0 0 0 130" //set alpha to 130 after finishing
+		"defaultbgcolor_override"	"MilkyBG" //set alpha to 130 after finishing
 		"PaintBackgroundType"		"0"
 		"TextInsetX"			"999999"
 	}
@@ -311,7 +311,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
 		"font"			"roboto12"
-		"fgcolor"		"255 255 255 255"
+		"fgcolor"		"MilkyFG"
 		"xpos"			"153"
 		"ypos"			"100"
 		"zpos"			"5"
@@ -339,7 +339,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
 		"font"			"roboto12"
-		"fgcolor"		"255 255 255 255"
+		"fgcolor"		"MilkyFG"
 		"xpos"			"227"
 		"ypos"			"100"
 		"zpos"			"5"
@@ -367,7 +367,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
 		"font"			"roboto12"
-		"fgcolor"		"255 255 255 255"
+		"fgcolor"		"MilkyFG"
 		"xpos"			"305"
 		"ypos"			"100"
 		"zpos"			"5"

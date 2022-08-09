@@ -67,7 +67,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_sentry_build"
-		"iconColor"		"255 255 255 255"
+		"iconColor"		"MilkyFG"
 	}
 	
 	"MetalIcon"	

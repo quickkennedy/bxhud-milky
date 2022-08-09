@@ -19,7 +19,7 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"fgcolor"		"255 255 255 255"
+		"fgcolor"		"MilkyFG"
 	}
 
 	"ItemBackground"
@@ -39,7 +39,7 @@
 		"tall"				"30"
 		"visible"			"1"		
 		"enabled"			"1"
-		"defaultbgcolor_override"	"0 0 0 130"
+		"defaultbgcolor_override"	"MilkyBG"
 		"PaintBackgroundType"		"0"
 		"TextInsetX"			"999999"
 	}
@@ -56,7 +56,7 @@
 		"enabled"	"1"
 		"scaleImage"	"1"	
 		"icon"		"hud_menu_sentry_build"
-		"iconColor"	"255 255 255 255"
+		"iconColor"	"MilkyFG"
 	}
 	
 	"MetalIcon"	
@@ -71,7 +71,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"	"CostLabel"
 		"font"		"roboto14"
-		"fgcolor"	"255 255 255 255"
+		"fgcolor"	"MilkyFG"
 		"xpos"		"0"
 		"ypos"		"0"
 		"zpos"		"1"
@@ -104,7 +104,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"	"NumberLabel"
 		"font"		"roboto12"
-		"fgcolor"	"255 255 255 255"
+		"fgcolor"	"MilkyFG"
 		"xpos"		"5"
 		"ypos"		"0"
 		"zpos"		"1"

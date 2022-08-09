@@ -5,7 +5,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"ItemNameLabel"
 		"font"			"roboto20"
-		"fgcolor"		"255 0 0 255"
+		"fgcolor"		"MilkyRED"
 		"xpos"			"6"
 		"ypos"			"0"
 		"zpos"			"1"
@@ -90,7 +90,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
-		"iconColor"		"255 255 255 255"
+		"iconColor"		"MilkyFG"
 	}
 	
 	"NumberLabel"
@@ -98,7 +98,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
 		"font"			"roboto16"
-		"fgcolor"		"255 0 0 255"
+		"fgcolor"		"MilkyRED"
 		"xpos"			"10"
 		"ypos"			"0"
 		"zpos"			"1"

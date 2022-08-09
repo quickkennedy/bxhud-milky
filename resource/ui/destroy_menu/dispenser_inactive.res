@@ -18,7 +18,7 @@
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"fgcolor"		"255 255 255 255"
+		"fgcolor"		"MilkyFG"
 	}
 	
 	"ItemBackground"	
@@ -38,7 +38,7 @@
 		"tall"				"30"
 		"visible"			"1"		
 		"enabled"			"1"
-		"defaultbgcolor_override"	"0 0 0 130"
+		"defaultbgcolor_override"	"MilkyBG"
 		"PaintBackgroundType"		"0"
 		"TextInsetX"			"999999"
 	}
@@ -60,7 +60,7 @@
 		"textAlignment"	"west"
 		"dulltext"	"0"
 		"brighttext"	"0"
-		"fgcolor"	"255 0 0 255"
+		"fgcolor"	"MilkyRED"
 	}	
 
 	"UnavailableLabel"
@@ -81,7 +81,7 @@
 		"textAlignment"	"West"
 		"dulltext"	"0"
 		"brighttext"	"0"
-		"fgcolor"	"255 0 0 255"
+		"fgcolor"	"MilkyRED"
 	}		
 			
 	"NumberBg"	
@@ -96,7 +96,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"	"NumberLabel"
 		"font"		"roboto12"
-		"fgcolor"	"255 255 255 255"
+		"fgcolor"	"MilkyFG"
 		"xpos"		"5"
 		"ypos"		"0"
 		"zpos"		"1"
